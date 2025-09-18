@@ -2,7 +2,8 @@
 title: Home
 layout: home
 ---
-
+Standalone Piracy Guide
+1. 
 .
 
 ----
