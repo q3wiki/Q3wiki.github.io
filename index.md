@@ -38,7 +38,14 @@ Installing pirated games
 6. if there is an obb folder (com.gamename.dev) further steps are required if not, just install the apk
 
  (ONLY REQUIRED WITH OBB FOLDER) 
-1. go to android / 
+1. copy the name of the com.yourgamenamehere.dev folder
+2. go to android > obb and make a new folder using the name u copied earlier
+3. now go back to obb folder from the game you downloaded
+4. copy all files  and paste them in the folder u just made
+5. now install apk
+
+ur done!
+i am actually completely standalone and this site was made on my quest 3
 
    
 
