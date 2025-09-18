@@ -1,8 +1,6 @@
 ---
 title: Home
 layout: home
-title: Standalone guide
-layout: standalone guide
 ---
 
 .
